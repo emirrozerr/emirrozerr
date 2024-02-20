@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emir Özer</h1>
-<h3 align="center">A passionate developer learning full stack development</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif">
 
-- 🌱 I’m currently learning **Spring(Core, Boot, MVC, Data) and React**
+- 🌱 I’m currently working with **Spring(Core, Boot, MVC, Data) and React**
 
 - 📫 How to reach me **emirrozerr@hotmail.com**
 
